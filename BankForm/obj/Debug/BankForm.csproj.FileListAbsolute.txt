@@ -1,0 +1,28 @@
+D:\Proyectos Programacion SSD\BankForm\BankForm\bin\Debug\BankForm.exe.config
+D:\Proyectos Programacion SSD\BankForm\BankForm\bin\Debug\BankForm.exe
+D:\Proyectos Programacion SSD\BankForm\BankForm\bin\Debug\BankForm.pdb
+D:\Proyectos Programacion SSD\BankForm\BankForm\obj\Debug\BankForm.csproj.AssemblyReference.cache
+D:\Proyectos Programacion SSD\BankForm\BankForm\obj\Debug\BankForm.Form1.resources
+D:\Proyectos Programacion SSD\BankForm\BankForm\obj\Debug\BankForm.Form2.resources
+D:\Proyectos Programacion SSD\BankForm\BankForm\obj\Debug\BankForm.Properties.Resources.resources
+D:\Proyectos Programacion SSD\BankForm\BankForm\obj\Debug\BankForm.csproj.GenerateResource.cache
+D:\Proyectos Programacion SSD\BankForm\BankForm\obj\Debug\BankForm.csproj.CoreCompileInputs.cache
+D:\Proyectos Programacion SSD\BankForm\BankForm\obj\Debug\BankForm.exe
+D:\Proyectos Programacion SSD\BankForm\BankForm\obj\Debug\BankForm.pdb
+D:\Proyectos Programacion SSD\BankForm\BankForm\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos Programacion SSD\BankForm\BankForm\bin\Debug\Newtonsoft.Json.xml
+D:\Proyectos Programacion SSD\BankForm\BankForm\obj\Debug\BankForm.csproj.Up2Date
+C:\Users\Tomas-notebook\Desktop\ProyectBank-main\BankForm\bin\Debug\BankForm.exe.config
+C:\Users\Tomas-notebook\Desktop\ProyectBank-main\BankForm\bin\Debug\BankForm.exe
+C:\Users\Tomas-notebook\Desktop\ProyectBank-main\BankForm\bin\Debug\BankForm.pdb
+C:\Users\Tomas-notebook\Desktop\ProyectBank-main\BankForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tomas-notebook\Desktop\ProyectBank-main\BankForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tomas-notebook\Desktop\ProyectBank-main\BankForm\obj\Debug\BankForm.csproj.AssemblyReference.cache
+C:\Users\Tomas-notebook\Desktop\ProyectBank-main\BankForm\obj\Debug\BankForm.Form1.resources
+C:\Users\Tomas-notebook\Desktop\ProyectBank-main\BankForm\obj\Debug\BankForm.Form2.resources
+C:\Users\Tomas-notebook\Desktop\ProyectBank-main\BankForm\obj\Debug\BankForm.Properties.Resources.resources
+C:\Users\Tomas-notebook\Desktop\ProyectBank-main\BankForm\obj\Debug\BankForm.csproj.GenerateResource.cache
+C:\Users\Tomas-notebook\Desktop\ProyectBank-main\BankForm\obj\Debug\BankForm.csproj.CoreCompileInputs.cache
+C:\Users\Tomas-notebook\Desktop\ProyectBank-main\BankForm\obj\Debug\BankForm.csproj.Up2Date
+C:\Users\Tomas-notebook\Desktop\ProyectBank-main\BankForm\obj\Debug\BankForm.exe
+C:\Users\Tomas-notebook\Desktop\ProyectBank-main\BankForm\obj\Debug\BankForm.pdb
